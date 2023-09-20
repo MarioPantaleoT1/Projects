@@ -1,3 +1,8 @@
+## Anyone viewing this:
+
+If you would like to play/start the game, clone the repo and make sure you have some c compiler (the make file uses g++). Then run make and ./assignment
+
+
 This is written by Mario Pantaleo. This is a program that randomly generates a pokemon map with PokeCenters (C), PokeMarts(M), tall grass (:), short grass(.), trees(^), water(~), roads(#), rocks(%), and trainers.
 
 There are now npcs on the map that are represented as different letters. They will all move according to their defined functionalities.
