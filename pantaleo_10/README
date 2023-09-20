@@ -1,0 +1,19 @@
+This is written by Mario Pantaleo. This is a program that randomly generates a pokemon map with PokeCenters (C), PokeMarts(M), tall grass (:), short grass(.), trees(^), water(~), roads(#), rocks(%), and trainers.
+
+There are now npcs on the map that are represented as different letters. They will all move according to their defined functionalities.
+The wanderer and the explorer move randomly, abiding by their rules, because its more fun than going in a straigt line.
+
+!! The character moves, so input must be given to make the program keep going (movement as per pdf, for numpad, !MAKE SURE NUMLOCK IS ON!) !! 
+Step in tall grass for a chance to encounter a pokemon. Battle them or catch them, your choice.
+
+The hiker and rival follow you wherever you go. If you run into a trainer, get ready to see their battle messages and be challenged to a battle.
+During a battle, trainers will throw their pokemon out. You have the options to attack, switch, use an item, or run (no running from trainer battles!). Try to defeat the opposing trainer or pokemon. Beware type effectiveness. If you lose all your pokemon, you will white out and go to a pokecenter. Also try going to a pokemart and buying some new items to aid you in battle. If your having trouble catching pokemon, try a better ball.
+
+Press tab ('\t') to open your bag while not in battle, using tab instead of 'b' because b is a movement key, and tab makes more sense to me. In the bag you can now enter the pokebox to find swap or deposit pokemon you don't have room in your party for.
+
+When your pokemon reaches the appropriate level, it will evolve! Every pokemon gains exp to level 100 max. They will learn moves according to their level up moveset as they level up.
+
+Move to gates to change maps. Press f to fly. It asks for x then y loc.
+Choose your pokemon at the start of the game and start your journey. 
+
+
