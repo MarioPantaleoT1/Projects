@@ -1,5 +1,5 @@
 Authored by: Mario Pantaleo and Jake Butler
- To use our Memory Leak analysis tool, simply run the following command in the command prompt:
+To use our Memory Leak analysis tool, simply run the following command in the command prompt:
 
 python tool.py <your filepath here>
 
