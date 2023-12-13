@@ -1,0 +1,5 @@
+* x, y, health, speed, dmg, icon
+77 4 5 1 1 B
+77 10 5 1 1 B
+77 14 5 1 1 B
+77 19 1 1 5 X
