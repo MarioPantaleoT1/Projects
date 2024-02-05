@@ -1,5 +1,7 @@
 ### Anyone viewing this:
 
+Video of me explaining/playing game: https://youtu.be/cbbaGYS6EnQ
+
 If you would like to play/start the game, clone the repo and make sure you have some c compiler (the make file uses g++). Then run make and ./assignment
 
 
